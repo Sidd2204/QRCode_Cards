@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ad7feb6.css",
-    "main.js": "/static/js/main.fbd1e436.js",
-    "index.html": "/index.html",
-    "main.2ad7feb6.css.map": "/static/css/main.2ad7feb6.css.map",
-    "main.fbd1e436.js.map": "/static/js/main.fbd1e436.js.map"
+    "main.css": "/QRCode_Cards/static/css/main.2ad7feb6.css",
+    "main.js": "/QRCode_Cards/static/js/main.fbd1e436.js",
+    "index.html": "/QRCode_Cards/index.html",
+    "main.2ad7feb6.css.map": "/QRCode_Cards/static/css/main.2ad7feb6.css.map",
+    "main.fbd1e436.js.map": "/QRCode_Cards/static/js/main.fbd1e436.js.map"
   },
   "entrypoints": [
     "static/css/main.2ad7feb6.css",
