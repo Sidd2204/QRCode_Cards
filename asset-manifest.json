@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/QRCode_Cards/static/css/main.2ad7feb6.css",
-    "main.js": "/QRCode_Cards/static/js/main.85d4d85a.js",
+    "main.css": "/QRCode_Cards/static/css/main.e244de84.css",
+    "main.js": "/QRCode_Cards/static/js/main.2c087cf0.js",
+    "static/media/3 f1 cars.svg": "/QRCode_Cards/static/media/3 f1 cars.e9bca5afc0a626e370b44ded42db95c2.svg",
     "index.html": "/QRCode_Cards/index.html",
-    "main.2ad7feb6.css.map": "/QRCode_Cards/static/css/main.2ad7feb6.css.map",
-    "main.85d4d85a.js.map": "/QRCode_Cards/static/js/main.85d4d85a.js.map"
+    "main.e244de84.css.map": "/QRCode_Cards/static/css/main.e244de84.css.map",
+    "main.2c087cf0.js.map": "/QRCode_Cards/static/js/main.2c087cf0.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ad7feb6.css",
-    "static/js/main.85d4d85a.js"
+    "static/css/main.e244de84.css",
+    "static/js/main.2c087cf0.js"
   ]
 }
